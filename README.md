@@ -38,12 +38,11 @@ The development of Internet of Things technologies has brought,  along with new 
 
 ### EV Charging Stations DFD
 
-![AC DFD](Images/TM-AC-Charger.png)
-![DC DFD](Images/TM-DC-Charger.png)
+![AC DC DFD](Images/TM-AC_DC%20EV.png)
 
 ### PV System DFD
 
-![PV DFD](Images/TM-PV-Inverter.png)
+![PV DFD](Images/TM-PV%20Inverter.png)
 
 ### Future (Current) Work and conclusions
 

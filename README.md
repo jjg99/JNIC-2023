@@ -10,7 +10,7 @@ Madrid
 
 <p align="middle">
   <img src="/Images/Logo-JNIC-23.png" width="100" />
-  <img src="/Images/Logo-Comillas.png" width="100" /> 
+  <img src="/Images/Logo-Comillas.jpg" width="100" /> 
 </p>
 
 ---
@@ -37,12 +37,12 @@ The development of Internet of Things technologies has brought,  along with new 
 
 ### EV Charging Stations DFD
 
-![General DFD](Images/TM-AC_Charger.png)
-
+![General DFD](Images/TM-AC Charger.png)
+![General DFD](Images/TM-DC Charger.png)
 
 ### PV System DFD
 
-
+![General DFD](Images/TM-PV Inverter.png)
 
 ### Future (Current) Work and conclusions
 
